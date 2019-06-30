@@ -1,6 +1,6 @@
 This is the heading (which is changed)
 	There is a paragraph (which is changed)
-		integrating across middle layer
+		integrating across middle layers
 -- hotfix
 	added new feature
 	added extra features
