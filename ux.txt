@@ -1,5 +1,6 @@
 This is the heading (which is changed)
-	There is a paragraph
+	There is a paragraph (which is changed)
 		integrating across middle layer
 -- hotfix
 	added new feature
+	added extra features
